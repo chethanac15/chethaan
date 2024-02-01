@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethaan&label=Profile%20views&color=0e75b6&style=flat" alt="chethaan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethaan" alt="chethaan" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/chethaan_ac" target="blank"><img src="https://img.shields.io/twitter/follow/chethaan_ac?logo=twitter&style=for-the-badge" alt="chethaan_ac" /></a> </p>
 
