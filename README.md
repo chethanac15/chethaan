@@ -1,4 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<hr></hr>
 <h1 align="center">Hello 👋, I'm Chethan AC</h1>
 <h3 align="center">A passionate software engineer from India 🇮🇳  on a mission to turn lines of code into meaningful solutions.</h3>
 
