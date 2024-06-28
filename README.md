@@ -16,7 +16,7 @@
 - 📫 How to reach me **acchethan15@gmail.com**
 
 - ⚡ Fun fact **I've been known to compose code with a soundtrack—ask me for my favorite coding tunes!**
-
+<hr></hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chethaan_ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chethaan_ac" height="30" width="40" /></a>
