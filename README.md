@@ -2,7 +2,7 @@
 <hr></hr>
 <h1 align="center">Hello 👋, I'm Chethan AC</h1>
 <h3 align="center">A passionate software engineer from India 🇮🇳  on a mission to turn lines of code into meaningful solutions.</h3>
-
+<hr></hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethaan&label=Profile%20views&color=0e75b6&style=flat" alt="chethaan" /> </p>
 
 
